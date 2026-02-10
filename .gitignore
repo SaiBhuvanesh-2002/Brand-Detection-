@@ -1,0 +1,40 @@
+# Large video files
+*.mp4
+*.avi
+*.mov
+
+# Model weights (large files)
+*.pt
+*.pth
+*.weights
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output files
+output_annotated.mp4
+brand_exposure_report.csv
+brand_exposure_summary.txt
+
+# Debug output
+debug_cameras/
+
+# macOS
+.DS_Store
+
+# Reference images (optional - uncomment if you want to keep these private)
+# reference_*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
