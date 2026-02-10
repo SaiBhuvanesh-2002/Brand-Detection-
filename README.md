@@ -272,4 +272,3 @@ For issues or questions, please refer to:
 
 ---
 
-**Built with ❤️ using YOLOv11, OpenCV, and Python**
